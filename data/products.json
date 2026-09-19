@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Custom T-Shirt",
+    "price": "From \u20b9399",
+    "description": "Premium personalised T-shirt printing",
+    "image": ""
+  },
+  {
+    "name": "White Mug",
+    "price": "\u20b9229",
+    "description": "Personalised photo/name mug",
+    "image": ""
+  },
+  {
+    "name": "Heart Handle White Mug",
+    "price": "\u20b9250",
+    "description": "Custom heart-handle mug",
+    "image": ""
+  },
+  {
+    "name": "Colour Mug",
+    "price": "\u20b9300",
+    "description": "Personalised colour mug",
+    "image": ""
+  },
+  {
+    "name": "Heart Handle Colour Mug",
+    "price": "\u20b9350",
+    "description": "Custom heart-handle colour mug",
+    "image": ""
+  },
+  {
+    "name": "6 oz Bell Colour Mug",
+    "price": "\u20b9200",
+    "description": "Compact personalised colour mug",
+    "image": ""
+  },
+  {
+    "name": "Magic Mug Normal",
+    "price": "\u20b9350",
+    "description": "Photo-reveal magic mug",
+    "image": ""
+  },
+  {
+    "name": "Glitter Magic Mug",
+    "price": "\u20b9400",
+    "description": "Glitter finish magic mug",
+    "image": ""
+  },
+  {
+    "name": "Slipper Bottle 750 ml",
+    "price": "\u20b9429",
+    "description": "Custom printed bottle",
+    "image": ""
+  },
+  {
+    "name": "Tiles Frame",
+    "price": "\u20b9250",
+    "description": "Personalised tile frame",
+    "image": ""
+  },
+  {
+    "name": "Small Wood Frame",
+    "price": "\u20b9250",
+    "description": "Custom wooden photo frame",
+    "image": ""
+  },
+  {
+    "name": "Glass Round Frame",
+    "price": "\u20b9500",
+    "description": "Personalised glass round frame",
+    "image": ""
+  }
+]
