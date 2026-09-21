@@ -1,1 +1,1 @@
-window.RARE_SUPABASE_URL="PASTE_SUPABASE_URL_HERE";window.RARE_SUPABASE_KEY="PASTE_SUPABASE_PUBLISHABLE_KEY_HERE";
+window.RARE_SUPABASE_URL="https://wlibojxlwgdolafmshys.supabase.co";window.RARE_SUPABASE_KEY="sb_publishable_KnzVVyxtmvOfXdFp2KBuDQ_HLy21gyY";
